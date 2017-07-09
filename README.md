@@ -261,6 +261,8 @@ namespace Microsoft.AspNetCore.Authentication.Extensions
     }
 }
 ```
+## Remarks
+To delete consent, go https://portal.office.com/account/#apps
 
 
 ## Users to test
